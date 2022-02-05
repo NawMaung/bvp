@@ -1,0 +1,8 @@
+{
+    "Template": {
+      "TemplateName": "MyTemplate",
+      "SubjectPart": "Greetings Customer",
+      "HtmlPart": "<img src={{imageURL}} alt=\"logo\" width=\"100\" height=\"100\">",
+      "TextPart": "Dear Customer,\r\nCheck out our website for new promotional content."
+    }
+  }
